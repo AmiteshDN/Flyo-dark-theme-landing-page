@@ -1,0 +1,155 @@
+/* HTML Elements */
+body{
+  background-color: hsl(218, 28%, 13%);
+  text-align: center;
+  font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* Navbar Elements */
+.navbar{
+  padding: 50px;
+}
+.nav-item{
+  padding : 0 18px;
+}
+
+/* Title Elements */
+#Titles{
+  text-align: center;
+}
+
+.productive{
+  padding: 50px;
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.Title{
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  color: #fff;
+  padding-bottom: 2rem;
+  line-height: 3rem;
+}
+
+.title-par{
+  text-align: center;
+  margin: auto;
+  width: 30%;
+  color: #FFF;
+}
+
+.get-started{
+  margin: 3rem auto;
+  padding: 10px 60px;
+  border-radius: 50px;
+}
+ /* Features */
+
+.features{
+  padding: 20px 0;
+  width: 70%;
+  margin: auto;
+}
+
+ .feature{
+   color: #fff;
+   padding: 25px;
+   line-height: 1.5rem;
+ }
+
+ /* Stay productive */
+ .stay-productive-img{
+   height: 100%;
+   width: 100%;
+   margin-left: auto;
+ }
+.stay-productive{
+  text-align: left;
+  color: #fff;
+  width: 80%;
+  margin: auto;
+  padding: 50px 20px 20px 50px;
+}
+
+.stay{
+  padding: 50px;
+}
+/* Testimonial Section */
+.cards-testimonial{
+  padding: 100px 100px 150px;
+}
+.testimonial{
+  height: 100%;
+  width: 90%;
+  background-color: hsl(219, 30%, 18%);
+  color: #fff;
+  text-align: left;
+
+}
+.founder{
+  border-radius: 80px;
+  height: 50px;
+  width: 50px;
+  margin: 5px 10px 5px 2px;
+}
+.name{
+  display: inline;
+}
+
+.access{
+  text-align: center;
+}
+.form{
+  width: 100%;
+  padding: 50px;
+  text-align: center;
+  background-color: hsl(217, 28%, 15%);
+  color: #fff;
+  margin: auto;
+  line-height: 1.5rem;
+}
+.started{
+  display: inline;
+  padding: 20px;
+}
+.email{
+  width: 60%;
+  padding:24px;
+  height: 40px;
+  border: none;
+  border-radius: 80px;
+}
+.get{
+  border-radius: 80px;
+}
+/* Footer Elements */
+.logo{
+  padding: 200px 0 5px ;
+}
+.footer{
+  width: 100%;
+  color: #fff;
+  padding: 20px 150px 0;
+  text-align: left;
+  margin: auto;
+  z-index: -1;
+  background-color: hsl(216, 53%, 9%);
+  position: relative;
+  bottom: 150px;
+
+}
+
+.col-lg-3,.col-sm-3{
+  padding: 50px;
+}
